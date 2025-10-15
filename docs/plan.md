@@ -12,8 +12,13 @@
 **Ngày kết thúc:** 25/10/2025
 
 
+<<<<<<< Updated upstream
 - Ôn lại lý thuyết.
 - luyện tập stash, reset, revert.
 - thực hành merge và giải quyết conflict.
 chuẩn bị cho bài kt cuối kỳ.
+=======
+- Học thêm về GitHub Actions.
+- Ôn luyện làm việc nhóm với GitHub.
+>>>>>>> Stashed changes
 
