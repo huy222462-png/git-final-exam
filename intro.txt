@@ -13,3 +13,11 @@ Kỹ năng:
 2. Git/Github
 3. làm việc nhóm hiểu quả
 
+
+Kế hoạch học tập:
+- Ôn lại các lệnh Git cơ bản.
+- Học thêm về Git branch và merge.
+- Thực hành làm việc nhóm trên GitHub.
+- Làm bài kiểm tra Git cuối kỳ.
+- Nghiên cưu thêm ve CI/CD cơ bản.
+
