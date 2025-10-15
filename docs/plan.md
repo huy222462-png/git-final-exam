@@ -11,3 +11,9 @@
 **Ngày bắt đầu:** 19/10/2025  
 **Ngày kết thúc:** 25/10/2025
 
+
+- Ôn lại lý thuyết.
+- luyện tập stash, reset, revert.
+- thực hành merge và giải quyết conflict.
+chuẩn bị cho bài kt cuối kỳ.
+
