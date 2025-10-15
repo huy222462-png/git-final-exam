@@ -1,3 +1,5 @@
 - Git giúp lưu lịch sử làm việc dễ dàng.
 - Quản lý version của project rất tiện lợi.
 - Làm việc nhóm hiệu quả hơn nhờ GitHub. 
+- Học Git giúp tôi hiểu sâu hơn về quy tình phát triển phần mềm.
+- Tôi cảm thấy tự tin hơn khi làm việc nhóm với Git. 
