@@ -1,0 +1,7 @@
+ ## Tính năng mới: Tự động đồng bộ file
+- Hệ thống sẽ tự động cập nhật các file thay đổi lên GitHub.
+- Giúp giảm lỗi quên push khi làm việc nhóm.
+- Mỗi thành viên sẽ nhận thông báo khi file bị chỉnh sửa.
+- Hỗ trợ quản lý version dễ dàng hơn.
+- có thể mở rộng cho nhiều project trong tương lai.
+
