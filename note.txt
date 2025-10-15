@@ -1,0 +1,3 @@
+- Git giúp lưu lịch sử làm việc dễ dàng.
+- Quản lý version của project rất tiện lợi.
+- Làm việc nhóm hiệu quả hơn nhờ GitHub. 
